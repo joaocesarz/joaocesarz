@@ -7,12 +7,3 @@
 
 ##
 ##
-
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaocesarz&show_icons=true&count_private=true&hide_border=true&title_color=FFFAFA&icon_color=7FFFD4&text_color=c9d1d9&bg_color=0d1117" alt="Joao Vitor github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocesarz&layout=compact&hide_border=true&title_color=FFFAFA&text_color=7FFFD4&bg_color=0d1117" />
-
-
-
-##
