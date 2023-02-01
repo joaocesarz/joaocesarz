@@ -16,5 +16,3 @@
 
 
 ##
-
-![Snake animation](https://github.com/joaocesarz/joaocesarz/blob/output/github-contribution-grid-snake.svg)
