@@ -19,10 +19,6 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
-
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaocesarz&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 ##
-
-
-![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
