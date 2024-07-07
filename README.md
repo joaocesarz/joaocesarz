@@ -12,7 +12,7 @@
 <h4 align="center">Linguagens</h4>
 <p align="center">
   <a href='https://skillicons.dev'>
-    <img src='https://skillicons.dev/icons?i=html,css,js,python,php,cs'/>
+    <img src='https://skillicons.dev/icons?i=html,css,js,python,php,cs,c'/>
   </a>
 
 <h5 align="center">Frameworks</h4>
@@ -25,6 +25,12 @@
 <p align="center">
   <a href='https://skillicons.dev'>
     <img src='https://skillicons.dev/icons?i=mysql,sqlite,postgres'/>
+  </a>
+
+   <h5 align="center">Sistemas operacionais</h4>
+<p align="center">
+  <a href='https://skillicons.dev'>
+    <img src='https://skillicons.dev/icons?i=linux,windows,apple'/>
   </a>
 
  <h5 align="center">Programas</h4>
