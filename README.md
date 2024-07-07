@@ -7,7 +7,31 @@
 </br>
 
 ##
-##
+
+
+<h4 align="center">Linguagens</h4>
+<p align="center">
+  <a href='https://skillicons.dev'>
+    <img src='https://skillicons.dev/icons?i=html,css,js,python,php,cs'/>
+  </a>
+
+<h5 align="center">Frameworks</h4>
+<p align="center">
+  <a href='https://skillicons.dev'>
+    <img src='https://skillicons.dev/icons?i=django,tailwind,net'/>
+  </a>
+ 
+<h5 align="center">Banco de dados</h4>
+<p align="center">
+  <a href='https://skillicons.dev'>
+    <img src='https://skillicons.dev/icons?i=mysql,sqlite,postgres'/>
+  </a>
+
+ <h5 align="center">Programas</h4>
+<p align="center">
+  <a href='https://skillicons.dev'>
+    <img src='https://skillicons.dev/icons?i=vscode,postman'/>
+  </a>
 
 
 <div align="center">  
