@@ -1,8 +1,8 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7FFFD4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+João+Cesar;I'm+24+years+old;I'm+from+Brazil;I+am+currently+studying+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7FFFD4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+João+Cesar;I'm+25+years+old;I'm+from+Brazil;I+am+currently+studying+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 ##
 
-<p>I'm studying the 4st period in ADS - Systems Development at Doctum. I am passionate about development. I see coding as an active way to change the world, I'm excited to solve problems and see the impact on end users.</p>
+<p>I am graduated in ADS - Systems Development at Doctum. I am passionate about development. I see coding as an active way to change the world, I'm excited to solve problems and see the impact on end users.</p>
 
 </br>
 
