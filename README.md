@@ -12,7 +12,7 @@
 <h4 align="center">Linguagens</h4>
 <p align="center">
   <a href='https://skillicons.dev'>
-    <img src='https://skillicons.dev/icons?i=html,css,js,python,php,cs,c'/>
+    <img src='https://skillicons.dev/icons?i=html,css,js,python,php,c'/>
   </a>
 
 <h5 align="center">Frameworks</h4>
